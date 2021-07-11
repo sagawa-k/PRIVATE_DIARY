@@ -5,4 +5,17 @@ body, #wrapper{
 
 footer{
     margin-top: auto;
+    background-color: black;
+}
+
+.my-diary-style{
+    margin-top: 6rem;
+}
+
+.form-group{
+    margin-top: 20px;
+}
+
+.inquiry_button{
+    margin-top: 20px;
 }
